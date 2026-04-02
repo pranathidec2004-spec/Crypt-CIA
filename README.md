@@ -31,6 +31,7 @@ Here are the instructions on how to run the files.
 
 OUTPUTS:
 <img width="804" height="440" alt="image" src="https://github.com/user-attachments/assets/1f5ac53a-0832-46af-ba2b-83e4fad0fc65" />
-<img width="823" height="129" alt="image" src="https://github.com/user-attachments/assets/f482d743-7931-4d05-a7c9-be421a5dca7b" />
+<img width="914" height="182" alt="image" src="https://github.com/user-attachments/assets/796475a1-ce21-4c62-a4cb-68cb666d1b42" />
+
 
 
